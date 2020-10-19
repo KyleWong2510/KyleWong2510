@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**KyleWong2510/KyleWong2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Header](https://raw.githubusercontent.com/KyleWong2510/KyleWong2510/KyleWong2510/Hello, I'm Kyle!.png "Header")](https://some-url.dev/)
 
 Here are some ideas to get you started:
 
