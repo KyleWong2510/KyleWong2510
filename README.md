@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/KyleWong2510/KyleWong2510/KyleWong2510/Hello, I'm Kyle!.png "Header")](https://some-url.dev/)
+[!Header](https://raw.githubusercontent.com/KyleWong2510/KyleWong2510/githubHeader.png)
 
 Here are some ideas to get you started:
 
