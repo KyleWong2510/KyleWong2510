@@ -5,23 +5,25 @@ I am a detail oriented software developer in the Denver Metro area.  Great UI, U
 
 ### Technologies
 ##### Languages:
-HTML
-CSS / SCSS
+HTML,
+CSS / SCSS,
 JavaScript
 
 ##### Libraries/Frameworks:
-React
-React Router
-React Testing Library
-Redux
-Jest
-Mocha
-Chai
+React,
+React Router,
+Redux,
 JQuery
 
+##### Testing:
+React Testing Library,
+Jest, 
+Mocha,
+Chai
+
 ##### Familiar With:
-Node.js
-Express
-PostgreSQL
-GraphQL
+Node.js,
+Express,
+PostgreSQL,
+GraphQL,
 Apex
