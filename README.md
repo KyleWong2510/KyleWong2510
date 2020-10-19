@@ -1,4 +1,4 @@
-[![Header](https://github.com/KyleWong2510/KyleWong2510/blob/main/githubHeader.png)]
+![Header](https://github.com/KyleWong2510/KyleWong2510/blob/main/githubHeader.png)
 
 Here are some ideas to get you started:
 
